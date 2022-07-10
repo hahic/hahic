@@ -1,5 +1,5 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhahic&count_bg=%239C68C6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hahic&edge_flat=false)](https://github.com/hahic)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fossified-reminder-291.notion.site%2FStudy-de34f4c6f43b41d2836efabe869da6db&count_bg=%2365BEC6&title_bg=%23555555&icon=notion.svg&icon_color=%23E7E7E7&title=%ED%98%B8%ED%9E%9B%ED%98%B8%ED%9E%9B&edge_flat=false)](https://ossified-reminder-291.notion.site/Study-de34f4c6f43b41d2836efabe869da6db)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhahic&count_bg=%23993DC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hahic&edge_flat=false)](https://github.com/hahic)
+
 
 <div align="center">
   <h1>👋 hi! i'm hahic!</h1>
@@ -8,6 +8,7 @@
 <h3 align="center">📖Language📖</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
