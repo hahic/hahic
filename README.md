@@ -16,19 +16,19 @@
 
 ## Skills
 - Language   
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/C-3766AB?style=flat&logo=C#&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C%23-00599C?style=flat&logo=C#&logoColor=white"/></a>
 - DataBase   
-<img src="https://img.shields.io/badge/Postgresql-3766AB?style=flat&logo=Postgresql&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/MSSQL-3766AB?style=flat&logo=MSSQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=Postgresql&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat&logo=Microsoft SQL Server&logoColor=white"/></a>
 - Softwares and Tools   
-<img src="https://img.shields.io/badge/Kubernetes-3766AB?style=flat&logo=Kubernetes&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Docker-3766AB?style=flat&logo=Docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GCP-3766AB?style=flat&logo=GCP&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS-3766AB?style=flat&logo=AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=Google Cloud&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>
 - 기타   
-<img src="https://img.shields.io/badge/Redis-3766AB?style=flat&logo=Redis&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Linux-3766AB?style=flat&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
 
 ## Certificate
 - SQLP
