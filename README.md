@@ -11,7 +11,7 @@
 
 ## About me
 - Backend Engineer   
-- Currently studying the CKA/Kubernetes & AWS    
+- Currently studying the AWS    
 - [기술 블로그](https://velog.io/@iaj0204)    
 
 ## Skills
@@ -31,8 +31,9 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
 
 ## Certificate
+- [GCP - Professional Data Engineer](https://www.credential.net/bed462af-606b-4621-9a34-5bdb9738ccac?key=98191ca3a3f100cdfbeca3e86b1bb4b34df1ff8582810fd5211d13a308bef51f)
 - SQLP
-- [Professional Data Engineer](https://www.credential.net/bed462af-606b-4621-9a34-5bdb9738ccac?key=98191ca3a3f100cdfbeca3e86b1bb4b34df1ff8582810fd5211d13a308bef51f)
+- [CKA](https://www.credly.com/badges/a3a0d869-fc9a-4502-9923-4ece80040e28/public_url)
 ---
 
 **Credit**: Lim eojin   
