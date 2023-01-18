@@ -11,7 +11,7 @@
 
 ## About me
 - Backend Engineer   
-- Currently studying the AWS    
+- Currently studying the AWS & Linux
 - [기술 블로그](https://velog.io/@iaj0204)    
 
 ## Skills
